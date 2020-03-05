@@ -1,5 +1,8 @@
 _repo: The-Tropical-World-Aspects-of-man-and-nature-in-the-equatorial-regions-of-the-globe_61520
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61520-h/images/cover.jpg
 creator:
   author:
     agent_name: Hartwig, G. (Georg)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '46868'
     url: http://www.gutenberg.org/2009/agents/46868
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61520#The-Tropical-World-Aspects-of-man-and-nature-in-the-equatorial-regions-of-the-globe
 gutenberg_issued: '2020-02-26'
 gutenberg_type: Text
 identifiers:
